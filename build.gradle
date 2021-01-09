@@ -12,6 +12,6 @@ dependencies {
 
 test {
 	filter {
-		includeTestMatching "*Test"
+		includeTestsMatching "*Test"
 	}
 }
